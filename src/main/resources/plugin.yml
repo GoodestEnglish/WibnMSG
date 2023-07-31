@@ -1,0 +1,11 @@
+name: WibnMSG
+version: '${version}'
+main: rip.diamond.wibnmsg.WibnMSG
+api-version: 1.19
+commands:
+  message:
+    aliases:
+      - msg
+      - m
+      - tell
+      - t
